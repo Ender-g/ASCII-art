@@ -11,7 +11,7 @@ $5  ROGRO  GROG     ROGROGR   OGROGROG  ROGROGROGROGRO
 $6    ROGR OGROGROGROGROG ROGROGROG ROGROGRO  GROGROG         
 $6      ROGROGROGROGRO GROGROGR OGROGR      OGROGRO           
 $7         R OGROGR OGROGRO GRO            GROGROG            
-$7            ROGR OG0ROGRO              GROGROGR             
+$7            ROGR OGROGROG              ROGROGRO             
 $8             ROGR   OGROGROGROGROGROGROGROGRO               
 $8               ROG       ROGROGROGROGROGROG                 
 $9                 RO             GROGROGR                    
